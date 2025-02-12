@@ -40,5 +40,5 @@ public String reverse(String str)
             sNew += c;
         }
     }
-    return sNew.toLowerCase;
+    return sNew.toLowerCase();
 }
